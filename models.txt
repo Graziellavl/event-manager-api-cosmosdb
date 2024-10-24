@@ -1,0 +1,25 @@
+--
+uvicon main:app --reload
+
+{
+    "id": "e1",
+    "name": "Conferencia Tech 2024",
+    "description": "Una conferencia sobre las últimas tendencias en tecnología.",
+    "date": "2024-09-15T09:00:00Z",
+    "location": "Centro de Convenciones Ciudad",
+    "capacity": 300,
+    "participants": [
+        {
+            "id": "p1",
+            "name": "Juan Pérez",
+            "email": "juan.perez@example.com",
+            "registration_date": "2024-08-01T10:30:00Z"
+        },
+        {
+            "id": "p2",
+            "name": "María López",
+            "email": "maria.lopez@example.com",
+            "registration_date": "2024-08-02T11:15:00Z"
+        }
+    ]
+}
