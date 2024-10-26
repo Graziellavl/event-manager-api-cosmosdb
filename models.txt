@@ -1,5 +1,5 @@
 --
-uvicon main:app --reload
+uvicorn main:app --reload
 
 {
     "id": "e1",
